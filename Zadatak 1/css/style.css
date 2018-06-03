@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+.pozdrav {
+    font-size: 18px;
+}
+
+.pozdrav-1 {
+    color: blue;
+}
+
+.pozdrav-2 {
+    color: yellow;
+}
